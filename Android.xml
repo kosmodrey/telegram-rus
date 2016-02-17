@@ -316,7 +316,7 @@
   <!--contacts view-->
   <string name="SelectContact">Выберите контакт</string>
   <string name="NoContacts">Контактов пока нет</string>
-  <string name="InviteText">Привет! Приглашаю тебя в Telegram! Это бесплатно, быстро и безопасно. https://telegram.org/dl</string>
+  <string name="InviteText">Привет! Приглашаю тебя в Telegram! Это безплатно, быстро и безопасно. https://telegram.org/dl</string>
   <string name="TodayAt">в</string>
   <string name="YesterdayAt">вчера в</string>
   <string name="Online">в сети</string>
@@ -861,14 +861,14 @@
   <!--Intro view-->
   <string name="Page1Title">Telegram</string>
   <string name="Page2Title">Быстрый</string>
-  <string name="Page3Title">Бесплатный</string>
+  <string name="Page3Title">Безплатный</string>
   <string name="Page4Title">Безопасный</string>
   <string name="Page5Title">Мощный</string>
   <string name="Page6Title">Облачный</string>
   <string name="Page7Title">Приватный</string>
-  <string name="Page1Message"><![CDATA[Самый <b>быстрый</b> мессенджер в мире.<br/>А ещё <b>бесплатный</b> и <b>безопасный</b>.]]></string>
+  <string name="Page1Message"><![CDATA[Самый <b>быстрый</b> мессенджер в мире.<br/>А ещё <b>безплатный</b> и <b>безопасный</b>.]]></string>
   <string name="Page2Message"><![CDATA[<b>Telegram</b> доставляет сообщения быстрее, чем<br/>любое другое приложение.]]></string>
-  <string name="Page3Message"><![CDATA[<b>Telegram</b> бесплатный навсегда. Без рекламы.<br/>Без абонентской платы.]]></string>
+  <string name="Page3Message"><![CDATA[<b>Telegram</b> безплатный навсегда. Без рекламы.<br/>Без абонентской платы.]]></string>
   <string name="Page4Message"><![CDATA[<b>Telegram</b> хранит ваши сообщения в безопасности<br/>от хакерских атак.]]></string>
   <string name="Page5Message"><![CDATA[<b>Telegram</b> не имеет ограничений на размер<br/>ваших файлов и чатов.]]></string>
   <string name="Page6Message"><![CDATA[<b>Telegram</b> позволяет вам получать доступ к вашим сообщениям<br/>на множестве устройств.]]></string>

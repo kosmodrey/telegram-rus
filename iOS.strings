@@ -158,7 +158,7 @@
 
 // Tour
 "Tour.Title1" = "Telegram";
-"Tour.Text1" = "Самое **быстрое** приложение для обмена сообщениями в мире\nА ещё **бесплатное** и **безопасное**";
+"Tour.Text1" = "Самое **быстрое** приложение для обмена сообщениями в мире\nА ещё **безплатное** и **безопасное**";
 
 "Tour.Title2" = "Быстрый";
 "Tour.Text2" = "**Telegram** доставляет сообщения быстрее,\nчем любое другое приложение";
@@ -172,8 +172,8 @@
 "Tour.Title5" = "Облачный";
 "Tour.Text5" = "**Telegram** позволяет переписываться\nс различных устройств";
 
-"Tour.Title6" = "Бесплатный";
-"Tour.Text6" = "**Telegram** всегда будет бесплатным!\nНикакой рекламы. Никаких подписок.";
+"Tour.Title6" = "Безплатный";
+"Tour.Text6" = "**Telegram** всегда будет безплатным!\nНикакой рекламы. Никаких подписок.";
 
 "Tour.Title7" = "Конфиденциальный";
 "Tour.Text7" = "**Все** сообщения надёжно зашифрованы и могут самоуничтожаться";
@@ -275,7 +275,7 @@
 "Contacts.contact" = "контакт";
 "Contacts.contacts" = "контакты";
 "Contacts.contactsvar" = "контакты";
-"Contacts.InvitationText" = "Привет! Приглашаю тебя в Telegram! Это бесплатно, быстро и безопасно. http://telegram.org/dl";
+"Contacts.InvitationText" = "Привет! Приглашаю тебя в Telegram! Это безплатно, быстро и безопасно. http://telegram.org/dl";
 "Contacts.FailedToSendInvitesMessage" = "Произошла ошибка";
 "Contacts.AccessDeniedError" = "У Telegram отсутствует доступ к контактам";
 "Contacts.AccessDeniedHelpLandscape" = "Пожалуйста, откройте в настройках вашего %@ раздел Конфиденциальность — Контакты.\nРазрешите доступ для Telegram.";
@@ -914,8 +914,8 @@
 "PrivacySettings.TouchIdEnable" = "Включить";
 
 "Notification.Reply" = "Ответить";
-"Notification.Mute1h" = "Не беспокоить 1 час";
-"Notification.Mute1hMin" = "Не беспокоить 1ч";
+"Notification.Mute1h" = "Не безпокоить 1 час";
+"Notification.Mute1hMin" = "Не безпокоить 1ч";
 "Conversation.ContextMenuShare" = "Поделиться";
 
 "SharedMedia.TitleAll" = "Медиа";
@@ -981,25 +981,25 @@
 "Time.PreciseDate_11" = "%1$@ ноября %2$@ в %3$@";
 "Time.PreciseDate_12" = "%1$@ декабря %2$@ в %3$@";
 
-"MuteFor.Minutes_1" = "Не беспокоить минуту";
-"MuteFor.Minutes_2" = "Не беспокоить 2 минуты";
-"MuteFor.Minutes_3_10" = "Не беспокоить %@ мин.";
-"MuteFor.Minutes_any" = "Не беспокоить %@ мин.";
+"MuteFor.Minutes_1" = "Не безпокоить минуту";
+"MuteFor.Minutes_2" = "Не безпокоить 2 минуты";
+"MuteFor.Minutes_3_10" = "Не безпокоить %@ мин.";
+"MuteFor.Minutes_any" = "Не безпокоить %@ мин.";
 
-"MuteFor.Hours_1" = "Не беспокоить час";
-"MuteFor.Hours_2" = "Не беспокоить 2 часа";
-"MuteFor.Hours_3_10" = "Не беспокоить %@ часов";
-"MuteFor.Hours_any" = "Не беспокоить %@ ч.";
+"MuteFor.Hours_1" = "Не безпокоить час";
+"MuteFor.Hours_2" = "Не безпокоить 2 часа";
+"MuteFor.Hours_3_10" = "Не безпокоить %@ часов";
+"MuteFor.Hours_any" = "Не безпокоить %@ ч.";
 
-"MuteFor.Days_1" = "Не беспокоить день";
-"MuteFor.Days_2" = "Не беспокоить 2 дня";
-"MuteFor.Days_3_10" = "Не беспокоить %@ дн.";
-"MuteFor.Days_any" = "Не беспокоить %@ дн.";
+"MuteFor.Days_1" = "Не безпокоить день";
+"MuteFor.Days_2" = "Не безпокоить 2 дня";
+"MuteFor.Days_3_10" = "Не безпокоить %@ дн.";
+"MuteFor.Days_any" = "Не безпокоить %@ дн.";
 
-"MuteFor.Weeks_1" = "Не беспокоить неделю";
-"MuteFor.Weeks_2" = "Не беспокоить 2 недели";
-"MuteFor.Weeks_3_10" = "Не беспокоить %@ нед.";
-"MuteFor.Weeks_any" = "Не беспокоить %@ нед.";
+"MuteFor.Weeks_1" = "Не безпокоить неделю";
+"MuteFor.Weeks_2" = "Не безпокоить 2 недели";
+"MuteFor.Weeks_3_10" = "Не безпокоить %@ нед.";
+"MuteFor.Weeks_any" = "Не безпокоить %@ нед.";
 
 "MuteExpires.Minutes_1" = "через минуту";
 "MuteExpires.Minutes_2" = "через 2 минуты";
@@ -1655,10 +1655,10 @@
 
 "Watch.UserInfo.Block" = "Заблокировать";
 "Watch.UserInfo.Unblock" = "Разблокировать";
-"Watch.UserInfo.Mute_1" = "Не беспокоить час";
-"Watch.UserInfo.Mute_2" = "Не беспокоить 2 часа";
-"Watch.UserInfo.Mute_3_10" = "Не беспокоить %@ часов";
-"Watch.UserInfo.Mute_any" = "Не беспокоить %@ часов";
+"Watch.UserInfo.Mute_1" = "Не безпокоить час";
+"Watch.UserInfo.Mute_2" = "Не безпокоить 2 часа";
+"Watch.UserInfo.Mute_3_10" = "Не безпокоить %@ часов";
+"Watch.UserInfo.Mute_any" = "Не безпокоить %@ часов";
 "Watch.UserInfo.Mute" = "Выключить уведомления";
 "Watch.UserInfo.Unmute" = "Включить уведомления";
 
