@@ -477,7 +477,7 @@
 "Profile.MessageLifetime1h" = "1 ч";
 "Profile.MessageLifetime1d" = "1 д";
 "Profile.MessageLifetime1w" = "1 нед";
-"Profile.ShareContactButton" = "Отправить этот контакт";
+"Profile.ShareContactButton" = "Отправить контакт";
 "Profile.ShareContactPersonFormat" = "Отправить контакт пользователю %@?";
 "Profile.ShareContactGroupFormat" = "Отправить контакт в «%@»?";
 
