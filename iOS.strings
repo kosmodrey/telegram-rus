@@ -918,11 +918,11 @@
 "Notification.Mute1hMin" = "Не безпокоить 1ч";
 "Conversation.ContextMenuShare" = "Поделиться";
 
-"SharedMedia.TitleAll" = "Медиа";
-"SharedMedia.TitlePhoto" = "Общие изображения";
-"SharedMedia.TitleVideo" = "Общие видео";
-"SharedMedia.TitleFile" = "Общие файлы";
-"SharedMedia.TitleAudio" = "Общая музыка";
+"SharedMedia.TitleAll" = "Все";
+"SharedMedia.TitlePhoto" = "Изображения";
+"SharedMedia.TitleVideo" = "Видео";
+"SharedMedia.TitleFile" = "Файлы";
+"SharedMedia.TitleAudio" = "Музыка";
 
 "SharedMedia.All" = "Все";
 "SharedMedia.Incoming" = "Доставлено";
@@ -1392,7 +1392,7 @@
 "Login.EmailPhoneSubject" = "Неверный номер %@";
 "Login.EmailPhoneBody" = "Я пытаюсь войти используя этот номер: %@, но Telegram говорит, что он некорректный. Пожалуйста, помогите.";
 
-"SharedMedia.TitleLink" = "Общие ссылки";
+"SharedMedia.TitleLink" = "Ссылки";
 "SharedMedia.EmptyLinksText" = "Все ссылки из этого чата появятся здесь.";
 
 "SharedMedia.Link_1" = "1 ссылка";
