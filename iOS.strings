@@ -1368,7 +1368,7 @@
 "UserInfo.BotSettings" = "Настройки";
 "UserInfo.BotHelp" = "Помощь";
 
-"Contacts.SearchLabel" = "Поиск контактов или никнеймов";
+"Contacts.SearchLabel" = "Поиск контактов";
 "ChatSearch.SearchPlaceholder" = "Поиск";
 
 "WatchRemote.NotificationText" = "Откройте это уведомление на телефоне, чтобы просмотреть сообщение с Apple Watch";
@@ -1470,8 +1470,8 @@
 "Channel.NotificationLoading" = "Загрузка...";
 
 "Conversation.InputTextDisabledPlaceholder" = "Комментарии выключены";
-"Compose.ChannelTokenListPlaceholder" = "Поиск контактов или никнеймов";
-"Compose.GroupTokenListPlaceholder" = "Поиск контактов или никнеймов";
+"Compose.ChannelTokenListPlaceholder" = "Поиск контактов";
+"Compose.GroupTokenListPlaceholder" = "Поиск контактов";
 
 "Compose.ChannelMembers" = "Участники";
 
