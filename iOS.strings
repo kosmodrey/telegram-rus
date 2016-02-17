@@ -211,7 +211,7 @@
 
 "Login.CodeTitle" = "Ваш код";
 
-"Login.InfoTitle" = "Ваши данные";
+"Login.InfoTitle" = "Ваши сведения";
 "Login.InfoAvatarAdd" = "добавить";
 "Login.InfoAvatarPhoto" = "фото";
 "Login.InfoFirstNamePlaceholder" = "Имя";
@@ -311,7 +311,7 @@
 "Conversation.Mute" = "Выключить звук";
 "Conversation.Unmute" = "Включить звук";
 "Conversation.Edit" = "Изменить";
-"Conversation.Info" = "Информация";
+"Conversation.Info" = "Сведения";
 "Conversation.Search" = "Поиск";
 "Conversation.Block" = "Заблокировать";
 "Conversation.Unblock" = "Разблокировать";
@@ -399,12 +399,12 @@
 "Message.Photo" = "Фото";
 "Message.Video" = "Видео";
 "Message.Location" = "Местоположение";
-"Message.Contact" = "Контактные данные";
+"Message.Contact" = "Контактные сведения";
 "Message.File" = "Файл";
 "Message.Sticker" = "Стикер";
 "Message.Audio" = "Аудио";
 "Message.ForwardedMessage" = "Пересланное сообщение\nОт: %@";
-"Message.SharedContact" = "Контактные данные";
+"Message.SharedContact" = "Контактные сведения";
 "Message.Animation" = "GIF";
 
 // Conversation Profile
@@ -431,7 +431,7 @@
 "Conversation.DownloadProgressKilobytes" = "%1$d КБ / %2$d КБ";
 "Conversation.ViewLocation" = "Посмотреть карту";
 "Conversation.SearchWebImages" = "Найти изображения";
-"Conversation.ShareMyContactInfo" = "Отправить мои контактные данные";
+"Conversation.ShareMyContactInfo" = "Отправить мой контакт";
 "Conversation.AddContact" = "Добавить контакт";
 "Conversation.SendMessage" = "Отправить сообщение";
 "Conversation.EncryptionCanceled" = "Секретный чат отменен";
@@ -477,18 +477,18 @@
 "Profile.MessageLifetime1h" = "1 ч";
 "Profile.MessageLifetime1d" = "1 д";
 "Profile.MessageLifetime1w" = "1 нед";
-"Profile.ShareContactButton" = "Отправить контактные данные";
+"Profile.ShareContactButton" = "Отправить этот контакт";
 "Profile.ShareContactPersonFormat" = "Отправить контакт пользователю %@?";
 "Profile.ShareContactGroupFormat" = "Отправить контакт в «%@»?";
 
 // User Info
-"UserInfo.Title" = "Информация";
+"UserInfo.Title" = "Сведения";
 "UserInfo.FirstNamePlaceholder" = "Имя";
 "UserInfo.LastNamePlaceholder" = "Фамилия";
 "UserInfo.GenericPhoneLabel" = "сотовый";
 "UserInfo.SendMessage" = "Отправить сообщение";
 "UserInfo.AddContact" = "Добавить контакт";
-"UserInfo.ShareContact" = "Отправить контактные данные";
+"UserInfo.ShareContact" = "Отправить этот контакт";
 "UserInfo.StartSecretChat" = "Начать секретный чат";
 "UserInfo.DeleteContact" = "Удалить контакт";
 "UserInfo.CreateNewContact" = "Создать новый контакт";
@@ -510,7 +510,7 @@
 "SecretChat.Title" = "Секретный чат";
 
 // Group Info
-"GroupInfo.Title" = "Информация";
+"GroupInfo.Title" = "Сведения";
 "GroupInfo.GroupNamePlaceholder" = "Название группы";
 "GroupInfo.BroadcastListNamePlaceholder" = "Название рассылки";
 "GroupInfo.SetGroupPhoto" = "Изменить фото группы";
@@ -599,13 +599,13 @@
 "Notifications.MessageNotificationsAlert" = "Звук";
 "Notifications.MessageNotificationsPreview" = "Начало сообщения";
 "Notifications.MessageNotificationsSound" = "Звук сообщения";
-"Notifications.MessageNotificationsHelp" = "Вы можете установить отдельные уведомления для каждого пользователя в информации о контакте";
+"Notifications.MessageNotificationsHelp" = "Вы можете установить отдельные уведомления для каждого пользователя в сведениях о контакте";
 
 "Notifications.GroupNotifications" = "Уведомления групповых чатов";
 "Notifications.GroupNotificationsAlert" = "Звук";
 "Notifications.GroupNotificationsPreview" = "Начало сообщения";
 "Notifications.GroupNotificationsSound" = "Звук сообщения";
-"Notifications.GroupNotificationsHelp" = "Вы можете установить отдельные уведомления для каждого чата в информации о группе";
+"Notifications.GroupNotificationsHelp" = "Вы можете установить отдельные уведомления для каждого чата в сведениях о группе";
 
 "Notifications.TextTone" = "Звук сообщения";
 "Notifications.AlertTones" = "Звуки предупреждений";
@@ -1287,7 +1287,7 @@
 "AuthSessions.EmptyText" = "Вы можете войти в Telegram с любого устройства: телефона, планшета или компьютер, используя ваш номер телефона. Все контакты и история сообщений мгновенно синхронизируются и доступны на любом устройстве.";
 "AuthSessions.AppUnofficial" = "(ID: %@)";
 
-"WebPreview.GettingLinkInfo" = "Получаю информацию о ссылке...";
+"WebPreview.GettingLinkInfo" = "Получаю сведения о ссылке...";
 "WebPreview.LinkPreview" = "Превью";
 
 "Preview.OpenInInstagram" = "Открыть в Instagram";
@@ -1307,7 +1307,7 @@
 "GroupInfo.InviteLink.RevokeAlert.Success" = "Прежняя пригласительная ссылка не активна. Сгенерирована новая.";
 "GroupInfo.InviteLink.CopyAlert.Success" = "Скопировано";
 
-"UserInfo.ShareMyContactInfo" = "Отправить мои контактные данные";
+"UserInfo.ShareMyContactInfo" = "Отправить мой контакт";
 
 "GroupInfo.InvitationLinkAccept" = "Присоединиться к группе «%@»?";
 "GroupInfo.InvitationLinkAcceptChannel" = "Присоединиться к каналу «%@»?";
@@ -1646,11 +1646,11 @@
 
 "Watch.Conversation.Reply" = "Ответить";
 "Watch.Conversation.Unblock" = "Разблокировать";
-"Watch.Conversation.UserInfo" = "Информация";
-"Watch.Conversation.GroupInfo" = "Информация";
+"Watch.Conversation.UserInfo" = "Сведения";
+"Watch.Conversation.GroupInfo" = "Сведения";
 "Watch.Bot.Restart" = "Перезапустить";
 
-"Watch.UserInfo.Title" = "Информация";
+"Watch.UserInfo.Title" = "Сведения";
 "Watch.UserInfo.Service" = "служебные уведомления";
 
 "Watch.UserInfo.Block" = "Заблокировать";
@@ -1662,7 +1662,7 @@
 "Watch.UserInfo.Mute" = "Выключить уведомления";
 "Watch.UserInfo.Unmute" = "Включить уведомления";
 
-"Watch.GroupInfo.Title" = "Информация";
+"Watch.GroupInfo.Title" = "Сведения";
 "Watch.ChannelInfo.Title" = "О канале";
 
 "Watch.Message.ForwardedFrom" = "Переслано от";
