@@ -136,8 +136,8 @@
   <string name="ChannelModerator">Модератор</string>
   <string name="ChannelCreator">Создатель</string>
   <string name="ChannelEditor">Администратор</string>
-  <string name="ChannelMute">ОТКЛЮЧИТЬ УВЕДОМЛЕНИЯ</string>
-  <string name="ChannelUnmute">ВКЛЮЧИТЬ УВЕДОМЛЕНИЯ</string>
+  <string name="ChannelMute">Отключить уведомления</string>
+  <string name="ChannelUnmute">Включить уведомления</string>
   <string name="ChannelAddAdmin">Добавить администратора</string>
   <string name="ChannelInviteViaLink">Пригласить по ссылке</string>
   <string name="ChannelAddUserAdminAlert">Уверены, что хотите назначить %1$s администратором?</string>
@@ -744,8 +744,8 @@
   <string name="BotStatusRead">имеет доступ к сообщениям</string>
   <string name="BotStatusCantRead">не имеет доступа к сообщениям</string>
   <string name="BotInfoTitle">Что умеет этот робот?</string>
-  <string name="BotStart">НАЧАТЬ</string>
-  <string name="BotUnblock">ПЕРЕЗАПУСК</string>
+  <string name="BotStart">Начать</string>
+  <string name="BotUnblock">Разблокировать</string>
   <string name="BotStop">Остановить</string>
   <string name="BotRestart">Перезапустить робота</string>
   <!--button titles-->
