@@ -248,7 +248,7 @@
 "DialogList.SingleUploadingFileSuffix" = "%@ отправляет файл";
 "DialogList.MultipleTypingSuffix" = "%d печатают";
 "DialogList.Typing" = "печатает";
-"DialogList.ClearHistoryConfirmation" = "Очистить историю сообщений";
+"DialogList.ClearHistoryConfirmation" = "Очистить историю";
 "DialogList.DeleteConversationConfirmation" = "Удалить и выйти";
 "DialogList.AwaitingEncryption" = "Подождите, когда %@ появится в сети…";
 "DialogList.EncryptionRejected" = "Секретный чат отменён";
@@ -440,7 +440,7 @@
 "Conversation.View" = "Посмотреть";
 "Conversation.Download" = "Загрузить";
 "Conversation.SlideToCancel" = "Проведите влево для отмены";
-"Conversation.ApplyLocalization" = "Установить языковой пакет";
+"Conversation.ApplyLocalization" = "Установить язык";
 "Conversation.OpenFile" = "Открыть файл";
 "Conversation.MicrophoneAccessDisabled" = "Telegram требуется доступ к вашему микрофону для отправки голосовых сообщений. Пожалуйста, зайдите в настройки вашего устройства в раздел Конфиденциальность — Микрофон и разрешите доступ для Telegram.";
 
