@@ -18,8 +18,8 @@ to link the code of portions of this program with the OpenSSL library.
 Full license: https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE
 Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 */
-"lng_language_name" = "Русский";
-"lng_switch_to_this" = "Переключиться на русский";
+"lng_language_name" = "Руский";
+"lng_switch_to_this" = "Переключиться на руский";
 
 "lng_menu_contacts" = "Контакты";
 "lng_menu_settings" = "Настройки";
