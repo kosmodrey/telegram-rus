@@ -651,8 +651,8 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_bot_description" = "Что может этот робот?";
 "lng_unblock_button" = "Разблокировать";
 "lng_channel_join" = "Присоединиться";
-"lng_channel_mute" = "Выкл. звук";
-"lng_channel_unmute" = "Вкл. звук";
+"lng_channel_mute" = "Отключить уведомления";
+"lng_channel_unmute" = "Включить уведомления";
 
 "lng_open_this_link" = "Открыть ссылку?";
 "lng_open_link" = "Открыть";
