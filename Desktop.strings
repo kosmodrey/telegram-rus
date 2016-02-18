@@ -429,17 +429,17 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_profile_loading" = "Загрузка..";
 "lng_profile_shared_media" = "Общие файлы";
 "lng_profile_no_media" = "В истории сообщений нет файлов.";
-"lng_profile_photos" = "{count:_not_used_|# фотография|Фотографий: #}";
+"lng_profile_photos" = "Фотографий: {count:_not_used_|#|#}";
 "lng_profile_photos_header" = "Просмотр фотографий";
-"lng_profile_videos" = "Видеозаписей: {count:_not_used_|# |# }";
+"lng_profile_videos" = "Видеозаписей: {count:_not_used_|#|#}";
 "lng_profile_videos_header" = "Просмотр видео";
-"lng_profile_songs" = "{count:_not_used_|# аудиофайл|Аудиофайлов: #}";
+"lng_profile_songs" = "Аудиофайлов: {count:_not_used_|#|#}";
 "lng_profile_songs_header" = "Просмотр аудиофайлов";
-"lng_profile_files" = "{count:_not_used_|# файл|Файлов: #}";
+"lng_profile_files" = "Файлов: {count:_not_used_|#|#}";
 "lng_profile_files_header" = "Просмотр файлов";
-"lng_profile_audios" = "{count:_not_used_|# аудиозапись|Аудиозаписей: #}";
+"lng_profile_audios" = "Аудиозаписей: {count:_not_used_|#|#}";
 "lng_profile_audios_header" = "Обзор аудиозаписей";
-"lng_profile_shared_links" = "{count:_not_used_|# ссылка |Ссылок: #}";
+"lng_profile_shared_links" = "Ссылок: {count:_not_used_|#|#}";
 "lng_profile_shared_links_header" = "Все ссылки";
 "lng_profile_copy_phone" = "Скопировать номер";
 
