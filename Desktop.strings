@@ -224,7 +224,7 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_settings_show_name" = "Показывать имя отправителя";
 "lng_settings_show_preview" = "Показывать начало сообщения";
 "lng_settings_use_windows" = "Использовать уведомления Windows";
-"lng_settings_sound_notify" = "Звук";
+"lng_settings_sound_notify" = "Включить звуки";
 "lng_settings_include_muted" = "Подсчитывать непрочитанные сообщения из всех чатов";
 
 "lng_notification_preview" = "У Вас новое сообщение";
