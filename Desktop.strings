@@ -33,7 +33,7 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_open_from_tray" = "Открыть Telegram";
 "lng_minimize_to_tray" = "Свернуть в трей";
 "lng_quit_from_tray" = "Выйти из Telegram";
-"lng_tray_icon_text" = "Telegram продолжит работу в свёрнутом виде.\nЕсли эта иконка пропадёт из трея, вы можете \nперетащить её сюда снова из скрытых иконок.";
+"lng_tray_icon_text" = "Telegram продолжит работу в свёрнутом виде.\nЕсли эта иконка пропадёт из трея, Вы можете \nперетащить её сюда снова из скрытых иконок.";
 
 "lng_month1" = "Января";
 "lng_month2" = "Февраля";
@@ -138,7 +138,7 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_phone_ph" = "Ваш номер телефона";
 "lng_phone_title" = "Ваш телефон";
 "lng_phone_desc" = "Пожалуйста, подтвердите Ваш код страны и\nвведите Ваш номер телефона.";
-"lng_phone_notreg" = "Если у вас нет аккаунта в Telegram,\nпожалуйста, [b]зарегистрируйтесь[/b] через приложение для [a href=\"https://telegram.org/\"]iOS / Android[/a] или {signup_start}здесь »{signup_end}";
+"lng_phone_notreg" = "Если у Вас нет аккаунта в Telegram,\nпожалуйста, [b]зарегистрируйтесь[/b] через приложение для [a href=\"https://telegram.org/\"]iOS / Android[/a] или {signup_start}здесь »{signup_end}";
 "lng_country_code" = "Код страны";
 "lng_bad_country_code" = "Некорректный код страны";
 "lng_country_ph" = "Поиск";
@@ -147,10 +147,10 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_country_select" = "Выберите страну";
 
 "lng_code_ph" = "Ваш код";
-"lng_code_desc" = "Мы отправили код доступа на ваш номер.\nПожалуйста, введите его в это поле.";
-"lng_code_telegram" = "Введите код, который вы получили в [b]Telegram[/b] на другом устройстве";
+"lng_code_desc" = "Мы отправили код доступа на Ваш номер.\nПожалуйста, введите его в это поле.";
+"lng_code_telegram" = "Введите код, который Вы получили в [b]Telegram[/b] на другом устройстве";
 "lng_code_no_telegram" = "Отправить код через SMS";
-"lng_code_call" = "Telegram позвонит вам через {minutes}:{seconds}";
+"lng_code_call" = "Telegram позвонит Вам через {minutes}:{seconds}";
 "lng_code_calling" = "Запрос вызова из Telegram..";
 "lng_code_called" = "Telegram набирает номер";
 
@@ -173,8 +173,8 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_signin_wrong_code" = "Вы ввели неверный код.";
 "lng_signin_try_password" = "Нет доступа к почте?";
 "lng_signin_password_removed" = "Защита паролем выключена. Вы можете выключить её в настройках.";
-"lng_signin_no_email_forgot" = "Так как вы не указали адрес электронной почты для восстановления пароля, оставшиеся варианты — вспомнить пароль или сбросить аккаунт.";
-"lng_signin_cant_email_forgot" = "Если вы не можете получить доступ к своей электронной почте, единственные доступные варианты — вспомнить пароль или сбросить аккаунт.";
+"lng_signin_no_email_forgot" = "Так как Вы не указали адрес электронной почты для восстановления пароля, оставшиеся варианты — вспомнить пароль или сбросить аккаунт.";
+"lng_signin_cant_email_forgot" = "Если Вы не можете получить доступ к своей электронной почте, единственные доступные варианты — вспомнить пароль или сбросить аккаунт.";
 "lng_signin_reset_account" = "Сбросить аккаунт";
 "lng_signin_sure_reset" = "Внимание!\n\nИстория сообщений и чаты будут безвозвратно удалены. Продолжить?";
 "lng_signin_reset" = "Сбросить";
@@ -188,7 +188,7 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_dlg_filter" = "Поиск";
 "lng_dlg_new_group_name" = "Название группы";
 "lng_dlg_new_channel_name" = "Название канала";
-"lng_no_contacts" = "У вас нет контактов";
+"lng_no_contacts" = "У Вас нет контактов";
 "lng_no_chats" = "Ваши чаты будут здесь";
 "lng_contacts_loading" = "Загрузка..";
 "lng_contacts_not_found" = "Контакты не найдены";
@@ -198,11 +198,11 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 
 "lng_settings_save" = "Сохранить";
 "lng_settings_upload" = "Обновить фото профиля";
-"lng_settings_crop_profile" = "Выберите квадратную область для фото вашего профиля";
+"lng_settings_crop_profile" = "Выберите квадратную область для фото Вашего профиля";
 "lng_settings_uploading_photo" = "Загрузка фото..";
 
 "lng_username_title" = "Имя пользователя";
-"lng_username_about" = "Вы можете задать себе уникальное\nимя пользователя – тогда другие люди \nсмогут находить вас по нему и связываться с вами, [b]не зная номера[/b] вашего телефона. \n\nРазрешены цифры, символы a-z и подчёркивания. Минимальная длина: 5 символов.";
+"lng_username_about" = "Вы можете задать себе уникальное\nимя пользователя – тогда другие люди \nсмогут находить Вас по нему и связываться с Вами, [b]не зная номера[/b] Вашего телефона. \n\nРазрешены цифры, символы a-z и подчёркивания. Минимальная длина: 5 символов.";
 "lng_username_choose" = "Выберите имя пользователя";
 "lng_username_invalid" = "Некорректное имя пользователя.";
 "lng_username_occupied" = "Это имя пользователя уже занято.";
@@ -210,8 +210,8 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_username_bad_symbols" = "Вы ввели недопустимые символы.";
 "lng_username_available" = "Доступно";
 "lng_username_not_found" = "Пользователь @{user} не найден.";
-"lng_username_link_willbe" = "Эта ссылка откроет диалог с вами:";
-"lng_username_link" = "Эта ссылка открывает диалог с вами:";
+"lng_username_link_willbe" = "Эта ссылка откроет диалог с Вами:";
+"lng_username_link" = "Эта ссылка открывает диалог с Вами:";
 "lng_username_copied" = "Ссылка скопирована в буфер обмена.";
 
 "lng_settings_section_contact_info" = "Информация о контакте";
@@ -227,7 +227,7 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_settings_sound_notify" = "Звук";
 "lng_settings_include_muted" = "Подсчитывать непрочитанные сообщения из всех чатов";
 
-"lng_notification_preview" = "У вас новое сообщение";
+"lng_notification_preview" = "У Вас новое сообщение";
 
 "lng_settings_section_general" = "Общее";
 "lng_settings_change_lang" = "Изменить язык";
@@ -310,11 +310,11 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_passcode_enter_first" = "Введите код доступа";
 "lng_passcode_enter_new" = "Новый код доступа";
 "lng_passcode_confirm_new" = "Повторите код доступа";
-"lng_passcode_about" = "После установки кода доступа в правом верхнем углу появится замочек. Нажмите на него, чтобы заблокировать приложение.\n\n[b]Важно:[/b] если вы забудете код доступа, вам придётся войти в приложение заново.";
+"lng_passcode_about" = "После установки кода доступа в правом верхнем углу появится замочек. Нажмите на него, чтобы заблокировать приложение.\n\n[b]Важно:[/b] если Вы забудете код доступа, Вам придётся войти в приложение заново.";
 "lng_passcode_differ" = "Коды доступа не совпадают";
 "lng_passcode_wrong" = "Неверный код доступа";
 "lng_passcode_is_same" = "Код доступа не был изменён";
-"lng_passcode_enter" = "Введите ваш код доступа";
+"lng_passcode_enter" = "Введите Ваш код доступа";
 "lng_passcode_submit" = "Разблокировать";
 "lng_passcode_logout" = "Выйти из аккаунта";
 "lng_passcode_need_unblock" = "Сначала разблокируйте.";
@@ -335,9 +335,9 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_cloud_password_email" = "Резервный e-mail";
 "lng_cloud_password_bad_email" = "Неверный адрес электронной почты, пожалуйста, попробуйте другой.";
 "lng_cloud_password_about" = "Этот пароль будет требоваться при входе на новом устройстве в дополнение к ПИН-коду.";
-"lng_cloud_password_about_recover" = "Вы уверены?\n\nЕсли вы забудете пароль, восстановить доступ к аккаунту будет невозможно. Ещё раз: вы навсегда потеряете доступ к своему аккаунту.";
+"lng_cloud_password_about_recover" = "Вы уверены?\n\nЕсли Вы забудете пароль, восстановить доступ к аккаунту будет невозможно. Ещё раз: Вы навсегда потеряете доступ к своему аккаунту.";
 "lng_cloud_password_skip_email" = "Не добавлять e-mail";
-"lng_cloud_password_almost" = "Ссылка для подтверждения почты была отправлена на указанный адрес.\nДвухступенчатая авторизация будет активирована после того, как вы перейдете по этой ссылке.";
+"lng_cloud_password_almost" = "Ссылка для подтверждения почты была отправлена на указанный адрес.\nДвухступенчатая авторизация будет активирована после того, как Вы перейдете по этой ссылке.";
 "lng_cloud_password_was_set" = "Двухэтапная авторизация включена.";
 "lng_cloud_password_updated" = "Ваш пароль обновлён.";
 "lng_cloud_password_removed" = "Двухэтапная авторизация выключена.";
@@ -381,7 +381,7 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_sessions_header" = "Текущая сессия";
 "lng_sessions_other_header" = "Активные сесии";
 "lng_sessions_no_other" = "Нет других сессий";
-"lng_sessions_other_desc" = "Вы можете войти в Telegram с любого устройства: телефона, планшета или компьютер, используя ваш номер телефона. Все контакты и история сообщений будут мгновенно синхронизироваться.";
+"lng_sessions_other_desc" = "Вы можете войти в Telegram с любого устройства: телефона, планшета или компьютер, используя Ваш номер телефона. Все контакты и история сообщений будут мгновенно синхронизироваться.";
 "lng_sessions_terminate_all" = "Завершить все сеансы";
 
 "lng_preview_loading" = "Получаю информацию о ссылке...";
@@ -450,7 +450,7 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_channel_admins" = "Администраторы";
 "lng_channel_add_admin" = "Добавить администратора";
 "lng_channel_admin_sure" = "Сделать {user} администратором?";
-"lng_channel_admins_too_much" = "К сожалению, вы добавили слишком много администраторов. Удалите хотя бы одного, чтобы продолжить.";
+"lng_channel_admins_too_much" = "К сожалению, Вы добавили слишком много администраторов. Удалите хотя бы одного, чтобы продолжить.";
 
 "lng_chat_all_members_admins" = "Все участники являются администраторами";
 "lng_chat_about_all_admins" = "Все участники могут добавлять в группу других людей, редактировать фото и название группы.";
@@ -465,13 +465,13 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_create_group_title" = "Создать группу";
 "lng_create_group_about" = "Группы идеально подходят для небольших сообществ – вплоть до {count} участников";
 "lng_create_channel_title" = "Создать канал";
-"lng_create_channel_about" = "Каналы – это инструмент для вещания ваших сообщений неограниченному числу пользователей";
+"lng_create_channel_about" = "Каналы – это инструмент для вещания Ваших сообщений неограниченному числу пользователей";
 "lng_create_public_channel_title" = "Публичный канал";
 "lng_create_public_channel_about" = "Канал отображается в поиске, присоединиться может кто угодно";
 "lng_create_private_channel_title" = "Приватный канал";
 "lng_create_private_channel_about" = "Присоединиться можно только по специальной ссылке";
 "lng_create_channel_comments" = "Включить комментарии";
-"lng_create_channel_comments_about" = "Если вы включите комментарии, люди смогут обсуждать ваши сообщения на канале.";
+"lng_create_channel_comments_about" = "Если Вы включите комментарии, люди смогут обсуждать Ваши сообщения на канале.";
 "lng_create_group_skip" = "Пропустить";
 
 "lng_create_channel_link_invalid" = "Некорректная ссылка";
@@ -485,8 +485,8 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_create_channel_crop" = "Выберите квадратную область для фото канала";
 
 "lng_failed_add_participant" = "Не получилось добавить пользователя. Повторите попытку позже.";
-"lng_failed_add_not_mutual" = "К сожалению, если пользователь покинул группу, то вернуть его можно будет только при условии, что вы находитесь в контактах друг у друга (у него есть ваш номер, а у вас — его).";
-"lng_failed_add_not_mutual_channel" = "К сожалению, если пользователь покинул канал, то вернуть его можно будет только при условии, что вы находитесь в контактах друг у друга (у него есть ваш номер, а у вас — его).";
+"lng_failed_add_not_mutual" = "К сожалению, если пользователь покинул группу, то вернуть его можно будет только при условии, что Вы находитесь в контактах друг у друга (у него есть Ваш номер, а у Вас — его).";
+"lng_failed_add_not_mutual_channel" = "К сожалению, если пользователь покинул канал, то вернуть его можно будет только при условии, что Вы находитесь в контактах друг у друга (у него есть Ваш номер, а у Вас — его).";
 
 "lng_sure_delete_contact" = "Вы уверены, что хотите удалить из контактов {contact}?";
 "lng_sure_delete_history" = "Вы уверены, что хотите удалить историю сообщений с {contact}?\n\nВосстановить сообщения будет невозможно.";
@@ -498,15 +498,15 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_sure_delete_group" = "Уверены, что хотите удалить эту группу? Все участники и сообщения будут безвозвратно удалены.";
 
 "lng_message_empty" = "Пустое сообщение";
-"lng_message_unsupported" = "Это сообщение не поддерживается в вашей версии Telegram. Для просмотра обновите приложение в настройках или здесь: {link}";
+"lng_message_unsupported" = "Это сообщение не поддерживается в Вашей версии Telegram. Для просмотра обновите приложение в настройках или здесь: {link}";
 
 "lng_action_add_user" = "{from} добавил(а) {user}";
 "lng_action_add_users_many" = "{from} добавил(а) {users}";
 "lng_action_add_users_and_one" = "{accumulated}, {user}";
 "lng_action_add_users_and_last" = "{accumulated} и {user}";
-"lng_action_add_you" = "{from} добавил(а) вас на этот канал";
+"lng_action_add_you" = "{from} добавил(а) Вас на этот канал";
 "lng_action_you_joined" = "Вы присоединились к каналу";
-"lng_action_add_you_group" = "{from} добавил(а) вас в эту группу";
+"lng_action_add_you_group" = "{from} добавил(а) Вас в эту группу";
 "lng_action_you_joined_group" = "Вы присоединились к этой группе";
 "lng_action_kick_user" = "{from} исключил(а) {user}";
 "lng_action_user_left" = "{from} покинул(а) группу";
@@ -524,7 +524,7 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_action_group_migrate" = "Эта группа была преобразована в супергруппу";
 
 "lng_profile_migrate_reached" = "Достигнут лимит в {count:_not_used_|# участника|# участников}";
-"lng_profile_migrate_about" = "Если вы хотите добавить больше участников, вы можете преобразовать эту группу в супергруппу. Что это такое:";
+"lng_profile_migrate_about" = "Если Вы хотите добавить больше участников, Вы можете преобразовать эту группу в супергруппу. Что это такое:";
 "lng_profile_migrate_feature1" = "— Максимальное число участников: {count:_not_used_|#|#}";
 "lng_profile_migrate_feature2" = "— Новым пользователям доступна вся история переписки группы";
 "lng_profile_migrate_feature3" = "— Администраторы могут удалять любые сообщения";
@@ -537,8 +537,8 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_channel_not_accessible" = "К сожалению, этот канал больше недоступен.";
 "lng_group_not_accessible" = "К сожалению, эта группа больше не доступна.";
 
-"lng_channels_too_much_public_existing" = "К сожалению, вы создали слишком много публичных каналов. Пожалуйста, удалите один из них, чтобы создать новый.";
-"lng_channels_too_much_public" = "К сожалению, вы создали слишком много публичных каналов.\n\nВы можете либо удалить один из существующих, либо создать приватный канал.";
+"lng_channels_too_much_public_existing" = "К сожалению, Вы создали слишком много публичных каналов. Пожалуйста, удалите один из них, чтобы создать новый.";
+"lng_channels_too_much_public" = "К сожалению, Вы создали слишком много публичных каналов.\n\nВы можете либо удалить один из существующих, либо создать приватный канал.";
 
 "lng_group_invite_bad_link" = "Ссылка некорректна или просрочена.";
 "lng_group_invite_want_join" = "Войти в группу «{title}»?";
@@ -547,7 +547,7 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 
 "lng_group_invite_link" = "Ссылка для приглашения:";
 "lng_group_invite_create" = "Создать ссылку приглашения";
-"lng_group_invite_about" = "Любой пользователь Telegram сможет вступить в вашу группу, перейдя по этой ссылке.";
+"lng_group_invite_about" = "Любой пользователь Telegram сможет вступить в Вашу группу, перейдя по этой ссылке.";
 "lng_group_invite_create_new" = "Аннулировать ссылку";
 "lng_group_invite_about_new" = "Предыдущая ссылка аннулирована,\nсейчас будет создана новая.";
 "lng_group_invite_copied" = "Скопировано";
@@ -634,13 +634,13 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_report_spam_sure_group" = "Уверены, что хотите сообщить о спаме от этой группы?";
 "lng_report_spam_sure_channel" = "Уверены, что хотите сообщить о спаме от этого канала?";
 "lng_report_spam_ok" = "Сообщить";
-"lng_cant_send_to_not_contact" = "К сожалению, вы можете отправлять сообщения только взаимным контактам. {more_info}";
-"lng_cant_invite_not_contact" = "К сожалению, вы можете добавлять в группы только взаимные контакты. {more_info}";
-"lng_cant_invite_not_contact_channel" = "К сожалению, вы можете добавлять в каналы только взаимные контакты. {more_info}";
+"lng_cant_send_to_not_contact" = "К сожалению, Вы можете отправлять сообщения только взаимным контактам. {more_info}";
+"lng_cant_invite_not_contact" = "К сожалению, Вы можете добавлять в группы только взаимные контакты. {more_info}";
+"lng_cant_invite_not_contact_channel" = "К сожалению, Вы можете добавлять в каналы только взаимные контакты. {more_info}";
 "lng_cant_more_info" = "Подробнее »";
 
-"lng_send_button" = "Отправить";
-"lng_message_ph" = "Наберите ваше сообщение..";
+"lng_send_button" = "Отпр.";
+"lng_message_ph" = "Наберите Ваше сообщение..";
 "lng_comment_ph" = "Комментировать..";
 "lng_broadcast_ph" = "Опубликовать сообщение...";
 "lng_record_cancel" = "Отпустите вне этого поля для отмены";
@@ -659,7 +659,7 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 
 "lng_bot_start" = "Начать";
 "lng_bot_choose_group" = "Выберите группу";
-"lng_bot_no_groups" = "У вас нет групп";
+"lng_bot_no_groups" = "У Вас нет групп";
 "lng_bot_groups_not_found" = "Группы не найдены";
 "lng_bot_sure_invite" = "Добавить робота в «{group}»?";
 "lng_bot_already_in_group" = "Робот уже состоит в указанной группе.";
@@ -762,7 +762,7 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 
 "lng_share_cant" = "К сожалению, сюда нельзя отправлять сообщения :(";
 "lng_reply_cant" = "К сожалению, в супергруппе невозможно ответить на старое сообщение :(";
-"lng_reply_cant_forward" = "К сожалению, в супергруппе невозможно ответить на старое сообщение :( Переслать его, добавив ваш комментарий?";
+"lng_reply_cant_forward" = "К сожалению, в супергруппе невозможно ответить на старое сообщение :( Переслать его, добавив Ваш комментарий?";
 
 "lng_contact_phone" = "Телефон";
 "lng_enter_contact_data" = "Новый контакт";
@@ -770,7 +770,7 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_edit_contact_title" = "Редактирование имени контакта";
 "lng_edit_channel_title" = "Редактировать";
 "lng_edit_group" = "Редактировать группу";
-"lng_edit_self_title" = "Редактирование вашего имени";
+"lng_edit_self_title" = "Редактирование Вашего имени";
 "lng_confirm_contact_data" = "Новый контакт";
 "lng_add_contact" = "Создать";
 "lng_add_contact_button" = "Новый контакт";
@@ -830,11 +830,11 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 
 "lng_mediaview_saved" = "Изображение было сохранено в папке [c]Загрузки[/c]";
 
-"lng_new_authorization" = "{name},\nМы обнаружили вход под вашим аккаунтом на новом устройстве.\n\nДата: {day}, {date}\nВремя: {time}\nУстройство: {device}\nМестоположение: {location}\n\nЕсли это были не вы, можете перейти в Настройки — Приватность и безопасность — Завершить все другие сеансы.\n\nИскренне ваша, команда Telegram.";
+"lng_new_authorization" = "{name},\nМы обнаружили вход под Вашим аккаунтом на новом устройстве.\n\nДата: {day}, {date}\nВремя: {time}\nУстройство: {device}\nМестоположение: {location}\n\nЕсли это были не вы, можете перейти в Настройки — Приватность и безопасность — Завершить все другие сеансы.\n\nИскренне Ваша, команда Telegram.";
 
 "lng_new_version_wrap" = "Telegram Desktop был обновлён до версии {version}\n\n{changes}\n\nПолная история изменений доступна здесь:\n{link}";
 "lng_new_version_minor" = "— Исправления багов и незначительные улучшения";
-"lng_new_version_text" = "GIF-революция: загрузка и скачивание GIF теперь происходит в 10 раз быстрее, доавлен автозапуск анимаций и сохранение ваших люимых GIF в отдельную вкладку на панели стикеров. \n\nПодробнее о гифках: https://tlgrm.ru/a/gifs \n\nВстроенные боты: новый способ добавить бота, отправлющего контент, в любой чат. Наберите юзернейм бота и свой запрос в поле сообщения и отправьте моментально полученный результат собеседнику. Попробуйте набрать «@gif dog» в этом чате. Ещё боты для примера: @gif, @wiki, @bingpic, @vid. \n\nПодробнее о ботах: https://tlgrm.ru/a/inline-bots \n\nТакже в этом обновлении: новый дизайн для медиафайлов и настройки автозагруки фотографий, аудиозаписей и GIF.";
+"lng_new_version_text" = "GIF-революция: загрузка и скачивание GIF теперь происходит в 10 раз быстрее, доавлен автозапуск анимаций и сохранение Ваших люимых GIF в отдельную вкладку на панели стикеров. \n\nПодробнее о гифках: https://tlgrm.ru/a/gifs \n\nВстроенные боты: новый способ добавить бота, отправлющего контент, в любой чат. Наберите юзернейм бота и свой запрос в поле сообщения и отправьте моментально полученный результат собеседнику. Попробуйте набрать «@gif dog» в этом чате. Ещё боты для примера: @gif, @wiki, @bingpic, @vid. \n\nПодробнее о ботах: https://tlgrm.ru/a/inline-bots \n\nТакже в этом обновлении: новый дизайн для медиафайлов и настройки автозагруки фотографий, аудиозаписей и GIF.";
 
 "lng_menu_insert_unicode" = "Вставьте управляющий символ Unicode";
 
