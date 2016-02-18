@@ -214,7 +214,7 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_username_link" = "Эта ссылка открывает диалог с Вами:";
 "lng_username_copied" = "Ссылка скопирована в буфер обмена.";
 
-"lng_settings_section_contact_info" = "Свеления о контакте";
+"lng_settings_section_contact_info" = "Сведения о контакте";
 "lng_settings_phone_number" = "Номер:";
 "lng_settings_username" = "Имя пользователя:";
 "lng_settings_choose_username" = "выберите имя пользователя";
