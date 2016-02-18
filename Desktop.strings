@@ -232,7 +232,7 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_settings_section_general" = "Общее";
 "lng_settings_change_lang" = "Изменить язык";
 "lng_languages" = "Языки";
-"lng_sure_save_language" = "Перезапустите Telegram, чтобы сменить язык";
+"lng_sure_save_language" = "Перезапустите Telegram, чтобы сменить язык.";
 "lng_settings_auto_update" = "Обновлять автоматически";
 "lng_settings_current_version" = "Версия {version}";
 "lng_settings_check_now" = "Проверить обновления";
@@ -640,9 +640,9 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_cant_more_info" = "Подробнее »";
 
 "lng_send_button" = "Отпр.";
-"lng_message_ph" = "Наберите Ваше сообщение..";
-"lng_comment_ph" = "Комментировать..";
-"lng_broadcast_ph" = "Опубликовать сообщение...";
+"lng_message_ph" = "Сообщение";
+"lng_comment_ph" = "Комментировать";
+"lng_broadcast_ph" = "Опубликовать сообщение";
 "lng_record_cancel" = "Отпустите вне этого поля для отмены";
 "lng_empty_history" = "";
 "lng_willbe_history" = "Выберите чат";
@@ -802,7 +802,7 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_box_leave" = "Покинуть";
 
 "lng_about_version" = "Версия {version}";
-"lng_about_text_1" = "Официальное приложение для быстрого и безопасного общения, основанное на [a href=\"https://core.telegram.org/api\"]Telegram API[/a]";
+"lng_about_text_1" = "Официальное приложение для быстрого и безопасного общения, основанное на [a href=\"https://core.telegram.org/api\"]Telegram API[/a].";
 "lng_about_text_2" = "Это ПО распространяется по лицензии [a href=\"https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE\"]GNU GPL3[/a], исходный код доступен на [a href=\"https://github.com/telegramdesktop/tdesktop\"]GitHub[/a].";
 "lng_about_text_3" = "Подробнее читайте в [a href=\"https://tlgrm.ru/faq\"]часто задаваемых вопросах[/a].{faq_open}{faq_close}";
 "lng_about_done" = "Закрыть";
