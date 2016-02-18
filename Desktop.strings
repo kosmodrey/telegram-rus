@@ -593,8 +593,8 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_emoji_category6" = "Предметы";
 "lng_emoji_category7" = "Символы и флажки";
 
-"lng_switch_stickers" = "Стикеры";
-"lng_switch_stickers_gifs" = "GIF и стикеры";
+"lng_switch_stickers" = "Наклейки";
+"lng_switch_stickers_gifs" = "GIF и наклейки";
 "lng_switch_emoji" = "Эмодзи";
 
 "lng_saved_gifs" = "Сохранённые GIF";
@@ -604,15 +604,15 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 
 "lng_box_remove" = "Удалить";
 
-"lng_custom_stickers" = "Пользовательские стикеры";
+"lng_custom_stickers" = "Пользовательские наклейки";
 "lng_stickers_remove_pack" = "Удалить «{sticker_pack}»?";
-"lng_stickers_add_pack" = "Установить стикеры";
-"lng_stickers_share_pack" = "Поделиться стикерами";
-"lng_stickers_not_found" = "Стикеры не найдены";
+"lng_stickers_add_pack" = "Установить наклейки";
+"lng_stickers_share_pack" = "Поделиться наклейками";
+"lng_stickers_not_found" = "Наклейки не найдены";
 "lng_stickers_copied" = "Скопировано";
 "lng_stickers_default_set" = "Великие умы";
-"lng_stickers_you_have" = "Управление и сортировка стикеров";
-"lng_stickers_packs" = "Наборы стикеров";
+"lng_stickers_you_have" = "Управление и сортировка наклеек";
+"lng_stickers_packs" = "Наборы наклеек";
 "lng_stickers_reorder" = "Перетаскивайте наборы для сортировки";
 "lng_stickers_remove" = "Удалить";
 "lng_stickers_return" = "Отменить";
@@ -624,8 +624,8 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_in_dlg_contact" = "Контакт";
 "lng_in_dlg_audio" = "Аудиозапись";
 "lng_in_dlg_file" = "Файл";
-"lng_in_dlg_sticker" = "Стикер";
-"lng_in_dlg_sticker_emoji" = "{emoji} (стикер)";
+"lng_in_dlg_sticker" = "Наклейка";
+"lng_in_dlg_sticker_emoji" = "{emoji} (наклейка)";
 
 "lng_report_spam" = "Сообщить о спаме";
 "lng_report_spam_hide" = "Скрыть";
@@ -834,7 +834,7 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 
 "lng_new_version_wrap" = "Telegram Desktop был обновлён до версии {version}\n\n{changes}\n\nПолная история изменений доступна здесь:\n{link}";
 "lng_new_version_minor" = "— Исправления багов и незначительные улучшения";
-"lng_new_version_text" = "GIF-революция: загрузка и скачивание GIF теперь происходит в 10 раз быстрее, доавлен автозапуск анимаций и сохранение Ваших люимых GIF в отдельную вкладку на панели стикеров. \n\nПодробнее о гифках: https://tlgrm.ru/a/gifs \n\nВстроенные боты: новый способ добавить бота, отправлющего контент, в любой чат. Наберите юзернейм бота и свой запрос в поле сообщения и отправьте моментально полученный результат собеседнику. Попробуйте набрать «@gif dog» в этом чате. Ещё боты для примера: @gif, @wiki, @bingpic, @vid. \n\nПодробнее о ботах: https://tlgrm.ru/a/inline-bots \n\nТакже в этом обновлении: новый дизайн для медиафайлов и настройки автозагруки фотографий, аудиозаписей и GIF.";
+"lng_new_version_text" = "GIF-революция: загрузка и скачивание GIF теперь происходит в 10 раз быстрее, доавлен автозапуск анимаций и сохранение Ваших люимых GIF в отдельную вкладку на панели наклеек. \n\nПодробнее о гифках: https://tlgrm.ru/a/gifs \n\nВстроенные боты: новый способ добавить бота, отправлющего контент, в любой чат. Наберите юзернейм бота и свой запрос в поле сообщения и отправьте моментально полученный результат собеседнику. Попробуйте набрать «@gif dog» в этом чате. Ещё боты для примера: @gif, @wiki, @bingpic, @vid. \n\nПодробнее о ботах: https://tlgrm.ru/a/inline-bots \n\nТакже в этом обновлении: новый дизайн для медиафайлов и настройки автозагруки фотографий, аудиозаписей и GIF.";
 
 "lng_menu_insert_unicode" = "Вставьте управляющий символ Unicode";
 
