@@ -251,9 +251,9 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_settings_scale_auto" = "Авто ({cur})";
 
 "lng_settings_section_chat" = "Настройки чата";
-"lng_settings_replace_emojis" = "Заменять смайлы";
+"lng_settings_replace_emojis" = "Заменять улыбочки";
 "lng_settings_view_emojis" = "Просмотреть список";
-"lng_settings_emoji_list" = "Доступные смайлы";
+"lng_settings_emoji_list" = "Доступные улыбочки";
 "lng_settings_send_enter" = "Отправлять по Enter";
 "lng_settings_send_ctrlenter" = "Отправлять по Ctrl+Enter";
 "lng_settings_send_cmdenter" = "Отправлять по Cmd+Enter";
