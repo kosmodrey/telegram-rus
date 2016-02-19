@@ -401,7 +401,7 @@
   <string name="ErrorOccurred">Произошла ошибка.</string>
   <!--stickers view-->
   <string name="Stickers">Наклейки</string>
-  <string name="StickersInfo">Приглашаем художников добавлять свои собственные наборы наклеек с помощью нашего бота @stickers.\n\nПользователи могут добавлять себе наклейки, нажимая на них и выбирая «Добавить в наклейки.</string>
+  <string name="StickersInfo">Приглашаем художников добавлять свои собственные наборы наклеек с помощью нашего бота @stickers.\n\nПользователи могут добавлять себе наклейки, нажимая на них и выбирая «Добавить в наклейки.»</string>
   <string name="AddStickers">Добавить наклейки</string>
   <string name="AddToStickers">Добавить в наклейки</string>
   <string name="AddStickersNotFound">Наклейки не найдены</string>
