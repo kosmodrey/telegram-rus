@@ -255,7 +255,7 @@
 
 
 "Conversation.ShowProfile" = "Показать профиль — %@";
-"Conversation.ShowGroupInfo" = "Информация о группе";
+"Conversation.ShowGroupInfo" = "Сведения о группе";
 "Conversation.StartSecretChat" = "Начать секретный чат";
 "Conversation.CantForwardSecretMessages" = "К сожалению, вы не можете пересылать сообщения в секретные чаты";
 "Conversation.CantShareContactToSecretChat" = "К сожалению, вы не можете пересылать контакты в секретные чаты";
@@ -281,7 +281,7 @@
 "Conversation.ShowEncryptionKey" = "Показать ключ шифрования";
 "Conversation.Delete" = "Удалить чат";
 "Conversation.Back" = "Вернуться в чат";
-"Conversation.BackToInfo" = "Вернуться к информации о группе";
+"Conversation.BackToInfo" = "Вернуться к сведениям о группе";
 "Conversation.DropTitle" = "Перетащите файл сюда, чтобы отправить его";
 "Conversation.DropQuickDescription" = "быстрым способом";
 "Conversation.ScrollToBottom" = "Прокрутить вниз к последним сообщениям";
@@ -328,7 +328,7 @@
 "Profile.ClearHistory" = "Очистить историю сообщений";
 "Profile.DeleteConversation" = "Удалить чат...";
 "Profile.Done" = "Готово";
-"BackToProfile" = "Вернуться к информации о группе";
+"BackToProfile" = "Вернуться к сведениям о группе";
 "Profile.RemovePhoto" = "Удалить фотографию";
 "Profile.UpdatePhoto" = "Обновить фотографию";
 "Profile.SetGroupPhoto" = "Установить фотографию группы";
@@ -550,7 +550,7 @@
 "Alert.Button.Ignore" = "Игнорировать";
 
 "Messages.MessagesTopInfoActionUnblockUser" = "Этот пользователь заблокирован, поэтому не сможет ответить на Ваши сообщения. ";
-"Messages.MessagesTopInfoActionShareContact" = "У этого пользователя нет Вашей контактной информации. ";
+"Messages.MessagesTopInfoActionShareContact" = "У этого пользователя нет Ваших сведений. ";
 "Messages.MessagesTopInfoActionAddContact" = "Этот пользователь отсутствует в Ваших контактах. ";
 
 "Messages.MessagesTopInfoActionAddContact.Button" = "Добавить";
@@ -580,7 +580,7 @@
 "Conversation.CantForwardToBroadcast" = "К сожалению, вы не можете пересылать сообщения в рассылку.";
 "NewConversation.CreatingBroadcast" = "Рассылка";
 
-"Conversation.ShowBroadcastInfo" = "Информация о рассылке";
+"Conversation.ShowBroadcastInfo" = "Сведения о рассылке";
 
 "Settings.LaunchOnStartup" = "Запускать при загрузке";
 
@@ -675,7 +675,7 @@
 "Profile.BlockContact" = "Заблокировать пользователя";
 "Profile.UnblockContact" = "Разблокировать пользователя";
 "Chat.Kick" = "Выгнать";
-"Profile.Info" = "Информация";
+"Profile.Info" = "Сведения";
 "UserName.placeHolder" = "@Введите имя пользователя";
 "Profile.ChangeUserName" = "Смена имени";
 "UserName.description" = "Вы можете выбрать себе имя пользователя в Телеграме. Когда вы сделаете это, другие люди смогут находить Вас с его помощью и связываться с Вами, не зная номера Вашего телефона.\n\nИмя пользователя может содержать только латинские буквы (a-z), цифры (0-9) и символы подчёркивания. Минимальная допустимая длина имени — 5 символов.";
@@ -860,8 +860,8 @@
 "Alert.ShareTo" = "Отправить контакт пользователю %@?";
 
 "Context.Reply" = "Ответить (двойной щелчок)";
-"ChatMedia.Sticker" = "Стикер";
-"Context.AddCustomSticker" = "Добавить стикер на панель эмодзи";
+"ChatMedia.Sticker" = "Наклейка";
+"Context.AddCustomSticker" = "Добавить наклейку на панель эмодзи";
 
 "PrivacyAndSecurity.TwoStepVerification" = "Двухэтапная аутентификация";
 
@@ -935,7 +935,7 @@
 "AuthSessions.OtherSessions" = "ДРУГИЕ СЕАНСЫ";
 "AuthSessions.TerminateOtherSessions" = "Завершить другие сеансы";
 
-"Webpage.GettingLinkInfo" = "Получение информации о ссылке...";
+"Webpage.GettingLinkInfo" = "Получение сведений о ссылке...";
 
 "Settings.SmartNotifications" = "Умные уведомления";
 
@@ -957,13 +957,13 @@
 
 
 "PasswordSettings.EnabledDescription" = "Вы включили двухэтапную аутентификацию.\nДля входа в свой аккаунт Telegram Вам нужно будет вводить установленный здесь пароль.";
-"StickerPack.AddStickerPack" = "Добавить %d стикеров";
-"Settings.Stickers" = "Стикеры";
-"Sticker.StickerSettings" = "Настройки стикеров";
-"Stickers.StickersCount" = "%d стикеров";
-"Stickers.StickersPacksHeader" = "НАБОРЫ СТИКЕРОВ";
-"Stickers.StickersSetDescription" = "\nПриглашаем художников добавлять свои собственные наборы стикеров с помощью нашего бота @stickers\n\nПользователи могут добавлять себе стикеры, нажимая на них и выбирая «Добавить в Стикеры».";
-"Context.AddStickers" = "Добавить в стикеры";
+"StickerPack.AddStickerPack" = "Добавить %d наклеек";
+"Settings.Stickers" = "Наклейки";
+"Sticker.StickerSettings" = "Настройки наклеек";
+"Stickers.StickersCount" = "%d наклеек";
+"Stickers.StickersPacksHeader" = "НАБОРЫ НАКЛЕЕК";
+"Stickers.StickersSetDescription" = "\nПриглашаем художников добавлять свои собственные наборы наклеек с помощью нашего бота @stickers\n\nПользователи могут добавлять себе наклейки, нажимая на них и выбирая «Добавить в наклейки.";
+"Context.AddStickers" = "Добавить в наклейки";
 "Settings.MessageNotificationsAlert" = "Сигнал";
 "Settings.MessageNotificationsHeader" = "СООБЩЕНИЯ";
 "Settings.ChatSettingsHeader" = "НАСТРОЙКИ ЧАТА";
@@ -1098,7 +1098,7 @@
 "Channel.ChoiceTypeDescriptionPublic" = "Публичные каналы могут быть найдены через поиск, любой может присоединяться к ним.";
 "Channel.NewChannelSettingUpUserNameDescription" = "Люди могут делиться этой ссылкой с другими и находить Ваш канал через поиск в Telegram.";
 "Channel.NewChannelSettingUpJoinLinkDescription" = "Люди могут присоединяться к Вашему каналу, следуя по этой ссылке. Вы можете отозвать эту ссылку в любое время.";
-"Conversation.ShowChannelInfo" = "Показать информацию о канале";
+"Conversation.ShowChannelInfo" = "Показать сведения о канале";
 "Channel.SetPublicUsernameDescription" = "Выберите ссылку для Вашего публичного канала, чтобы люди могли найти её через поиск и поделиться с другими.\n\nЕсли вы в этом не заинтересованы, предлагаем создать частный канал.";
 "CHANNELS_ADMIN_PUBLIC_TOO_MUCH" = "Извините, вы создали слишком много публичных каналов. Вы можете либо удалить один из существующих, либо создать частный канал.";
 "Profile.DeleteChannel" = "Удалить канал";

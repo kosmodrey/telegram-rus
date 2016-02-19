@@ -168,7 +168,7 @@
   <string name="ChannelMessageGroupDocument">%1$s отправил(а) файл на канал %2$s</string>
   <string name="ChannelMessageGroupGif">%1$s отправил(а) GIF на канал %2$s</string>
   <string name="ChannelMessageGroupAudio">%1$s опубликовал(а) аудиозапись на канале «%2$s»</string>
-  <string name="ChannelMessageGroupSticker">%1$s отправил(а) стикер на канал %2$s</string>
+  <string name="ChannelMessageGroupSticker">%1$s отправил(а) наклейку на канал %2$s</string>
   <string name="ChannelMessageNoText">%1$s опубликовал(а) сообщение</string>
   <string name="ChannelMessagePhoto">%1$s опубликовал(а) фото</string>
   <string name="ChannelMessageVideo">%1$s опубликовал(а) видео</string>
@@ -177,7 +177,7 @@
   <string name="ChannelMessageDocument">%1$s опубликовал(а) файл</string>
   <string name="ChannelMessageGIF">%1$s опубликовал(а) GIF</string>
   <string name="ChannelMessageAudio">%1$s опубликовал(а) аудиозапись</string>
-  <string name="ChannelMessageSticker">%1$s опубликовал(а) стикер</string>
+  <string name="ChannelMessageSticker">%1$s опубликовал(а) наклейку</string>
   <string name="WhoCanAddMembers">Кто может добавлять новых пользователей?</string>
   <string name="WhoCanAddMembersAllMembers">Все участники</string>
   <string name="WhoCanAddMembersAdmins">Только администраторы</string>
@@ -256,7 +256,7 @@
   <string name="UnsupportedAttachment">Неподдерживаемое вложение</string>
   <string name="SetTimer">Установить таймер самоуничтожения</string>
   <string name="ServiceNotifications">Служебные уведомления</string>
-  <string name="GettingLinkInfo">Получаю информацию о ссылке...</string>
+  <string name="GettingLinkInfo">Получаю сведения о ссылке...</string>
   <string name="OpenInBrowser">Открыть в браузере</string>
   <string name="CopyUrl">Копировать ссылку</string>
   <string name="SendItems">Отправить %1$s</string>
@@ -286,7 +286,7 @@
   <string name="NotificationMessageDocument">%1$s отправил(а) Вам файл</string>
   <string name="NotificationMessageGif">%1$s отправил(а) Вам GIF</string>
   <string name="NotificationMessageAudio">%1$s прислал(а) аудиозапись</string>
-  <string name="NotificationMessageSticker">%1$s отправил(а) Вам стикер</string>
+  <string name="NotificationMessageSticker">%1$s отправил(а) Вам наклейку</string>
   <string name="NotificationMessageGroupText">%1$s @ %2$s: %3$s</string>
   <string name="NotificationMessageGroupNoText">%1$s отправил(а) сообщение в группу %2$s</string>
   <string name="NotificationMessageGroupPhoto">%1$s отправил(а) фото в группу %2$s</string>
@@ -296,7 +296,7 @@
   <string name="NotificationMessageGroupDocument">%1$s отправил(а) файл в группу %2$s</string>
   <string name="NotificationMessageGroupGif">%1$s отправил(а) GIF в группу %2$s</string>
   <string name="NotificationMessageGroupAudio">%1$s отправил(а) аудиозапись в группу %2$s</string>
-  <string name="NotificationMessageGroupSticker">%1$s отправил(а) стикер в группу %2$s</string>
+  <string name="NotificationMessageGroupSticker">%1$s отправил(а) наклейку в группу %2$s</string>
   <string name="NotificationInvitedToGroup">%1$s пригласил(а) Вас в группу %2$s</string>
   <string name="NotificationEditedGroupName">%1$s изменил(а) имя группы %2$s</string>
   <string name="NotificationEditedGroupPhoto">%1$s изменил(а) фото группы %2$s</string>
@@ -384,7 +384,7 @@
   <string name="ShortMessageLifetimeForever">Отключён</string>
   <string name="EncryptionKeyDescription">Это изображение — визуализация ключа шифрования для этого секретного чата c пользователем <![CDATA[<b>]]>%1$s<![CDATA[</b>]]>.<![CDATA[<br><br>]]>Если это изображение идентично изображению на устройстве пользователя <![CDATA[<b>]]>%2$s<![CDATA[</b>]]>, то Ваше общение безопасно на 200%%.<![CDATA[<br><br>]]>Узнайте больше на telegram.org</string>
   <string name="NumberUnknown">Неизвестен</string>
-  <string name="Info">Информация</string>
+  <string name="Info">Сведения</string>
   <string name="Phone">Номер телефона</string>
   <!--usernames-->
   <string name="Username">Имя пользователя</string>
@@ -400,20 +400,20 @@
   <string name="UsernameEmpty">Не задано</string>
   <string name="ErrorOccurred">Произошла ошибка.</string>
   <!--stickers view-->
-  <string name="Stickers">Стикеры</string>
-  <string name="StickersInfo">Приглашаем художников добавлять свои собственные наборы стикеров с помощью нашего бота @stickers.\n\nПользователи могут добавлять себе стикеры, нажимая на них и выбирая «Добавить в стикеры».</string>
-  <string name="AddStickers">Добавить стикеры</string>
-  <string name="AddToStickers">Добавить в стикеры</string>
-  <string name="AddStickersNotFound">Стикеры не найдены</string>
-  <string name="StickersRemoved">Стикеры удалены</string>
-  <string name="AddStickersInstalled">Стикеры добавлены</string>
+  <string name="Stickers">Наклейки</string>
+  <string name="StickersInfo">Приглашаем художников добавлять свои собственные наборы наклеек с помощью нашего бота @stickers.\n\nПользователи могут добавлять себе наклейки, нажимая на них и выбирая «Добавить в наклейки.</string>
+  <string name="AddStickers">Добавить наклейки</string>
+  <string name="AddToStickers">Добавить в наклейки</string>
+  <string name="AddStickersNotFound">Наклейки не найдены</string>
+  <string name="StickersRemoved">Наклейки удалены</string>
+  <string name="AddStickersInstalled">Наклейки добавлены</string>
   <string name="StickersHide">Скрыть</string>
   <string name="StickersShow">Показать</string>
   <string name="StickersShare">Поделиться</string>
   <string name="StickersCopy">Скопировать ссылку</string>
   <string name="StickersRemove">Удалить</string>
-  <string name="NoStickers">Стикеров пока нет</string>
-  <string name="TooMuchStickersets">К сожалению, Вы установили максимально допустимое количество наборов стикеров.</string>
+  <string name="NoStickers">Наклеек пока нет</string>
+  <string name="TooMuchStickersets">К сожалению, Вы установили максимально допустимое количество наборов наклеек.</string>
   <!--settings view-->
   <string name="ResetNotificationsText">Сброс всех настроек уведомлений на стандартные</string>
   <string name="TextSize">Размер текста сообщений</string>
@@ -833,7 +833,7 @@
   <string name="AreYouSureSessions">Уверены, что хотите завершить все другие сеансы?</string>
   <string name="AreYouSureDeleteAndExit">Уверены, что хотите удалить и покинуть эту группу?</string>
   <string name="AreYouSureDeleteThisChat">Уверены, что хотите удалить этот чат?</string>
-  <string name="AreYouSureShareMyContactInfo">Уверены, что хотите поделиться своей контактной информацией?</string>
+  <string name="AreYouSureShareMyContactInfo">Уверены, что хотите поделиться своими сведениями?</string>
   <string name="AreYouSureBlockContact">Уверены, что хотите заблокировать этот контакт?</string>
   <string name="AreYouSureUnblockContact">Уверены, что хотите разблокировать этот контакт?</string>
   <string name="AreYouSureDeleteContact">Уверены, что хотите удалить этот контакт?</string>
@@ -983,12 +983,12 @@
   <string name="Meters_few">Метров: %1$d</string>
   <string name="Meters_many">Метров: %1$d</string>
   <string name="Meters_other">Метров: %1$d</string>
-  <string name="Stickers_zero">%1$d стикеров</string>
-  <string name="Stickers_one">%1$d стикер</string>
-  <string name="Stickers_two">%1$d стикера</string>
-  <string name="Stickers_few">Стикеров: %1$d</string>
-  <string name="Stickers_many">Стикеров: %1$d</string>
-  <string name="Stickers_other">Стикеров: %1$d</string>
+  <string name="Stickers_zero">%1$d наклеек</string>
+  <string name="Stickers_one">%1$d наклейка</string>
+  <string name="Stickers_two">%1$d наклейки</string>
+  <string name="Stickers_few">Наклеек: %1$d</string>
+  <string name="Stickers_many">Наклеек: %1$d</string>
+  <string name="Stickers_other">Наклеек: %1$d</string>
   <string name="Photos_zero">%1$d фотографий</string>
   <string name="Photos_one">%1$d фотография</string>
   <string name="Photos_two">%1$d фотографии</string>
@@ -1050,12 +1050,12 @@
   <string name="ForwardedContact_few">Контактов: %1$d</string>
   <string name="ForwardedContact_many">Контактов: %1$d</string>
   <string name="ForwardedContact_other">Контактов: %1$d</string>
-  <string name="ForwardedSticker_zero">%1$d стикеров</string>
-  <string name="ForwardedSticker_one">Стикер</string>
-  <string name="ForwardedSticker_two">%1$d стикера</string>
-  <string name="ForwardedSticker_few">Стикеров: %1$d</string>
-  <string name="ForwardedSticker_many">Стикеров: %1$d</string>
-  <string name="ForwardedSticker_other">Стикеров: %1$d</string>
+  <string name="ForwardedSticker_zero">%1$d наклеек</string>
+  <string name="ForwardedSticker_one">Наклейка</string>
+  <string name="ForwardedSticker_two">%1$d наклейки</string>
+  <string name="ForwardedSticker_few">Наклеек: %1$d</string>
+  <string name="ForwardedSticker_many">Наклеек: %1$d</string>
+  <string name="ForwardedSticker_other">Наклеек: %1$d</string>
   <string name="AndOther_zero">и ещё %1$d</string>
   <string name="AndOther_one">и ещё %1$d</string>
   <string name="AndOther_two">и ещё %1$d</string>
@@ -1074,7 +1074,7 @@
   <string name="formatterDay12H">h:mm a</string>
   <string name="formatDateAtTime">%1$s в %2$s</string>
   <!--update text-->
-  <string name="updateText">Ваш Telegram обновился. Что нового:\n– Переработанные голосовые сообщения: помимо нового дизайна с превью, появилась возможность прослушивания и записи голосовой заметки просто поднеся телефон к уху.\n\n– Секретные чаты повышенной комфортности. Всё то, за что мы так любим Telegram, теперь доступно и в секретных чатах: стикеры, встроенные боты, предпросмотр ссылок, ответы, подписи к фото и видео и, конечно, новые GIF.\n\n– Расширенные настройки приватности: теперь Вы можете разграничить, кто может, а кто не может добавлять Вас в группы и каналы.
-Информация об обновлении и обсуждение: https://tlgrm.ru/a/audio2</string>
+  <string name="updateText">Ваш Telegram обновился. Что нового:\n– Переработанные голосовые сообщения: помимо нового дизайна с превью, появилась возможность прослушивания и записи голосовой заметки просто поднеся телефон к уху.\n\n– Секретные чаты повышенной комфортности. Всё то, за что мы так любим Telegram, теперь доступно и в секретных чатах: наклейки, встроенные боты, предпросмотр ссылок, ответы, подписи к фото и видео и, конечно, новые GIF.\n\n– Расширенные настройки приватности: теперь Вы можете разграничить, кто может, а кто не может добавлять Вас в группы и каналы.
+Сведения об обновлении и обсуждение: https://tlgrm.ru/a/audio2</string>
   <string name="updateBuild">704</string>
 </resources>
