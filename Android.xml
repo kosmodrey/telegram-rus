@@ -252,7 +252,7 @@
   <string name="DeleteGif">Удалить GIF?</string>
   <string name="SaveToMusic">Сохранить в музыку</string>
   <string name="ShareFile">Поделиться</string>
-  <string name="ApplyLocalizationFile">Применить файл локализации</string>
+  <string name="ApplyLocalizationFile">Установить языковой файл</string>
   <string name="UnsupportedAttachment">Неподдерживаемое вложение</string>
   <string name="SetTimer">Установить таймер самоуничтожения</string>
   <string name="ServiceNotifications">Служебные уведомления</string>
