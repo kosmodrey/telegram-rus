@@ -38,6 +38,16 @@
 >
 > — Исследователь реформ руского языка Г. Емельяненко.
 
+## Официальные файлы перевода
+
+**Desktop:** https://github.com/telegramdesktop/tdesktop/blob/master/Telegram/Resources/lang.strings
+
+**Android:** https://www.transifex.com/telegram/telegram/
+
+**iOS:** ???
+
+**Mac OS:** https://github.com/overtake/telegram/blob/master/TGShare/en.lproj/Localizable.strings
+
 ## Как помочь?
 
 Вы можите смело присылать свои исправления через `git`, или [обсудить / дать совет](https://github.com/kosmodrey/telegram-rus/issues).
