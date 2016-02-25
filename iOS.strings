@@ -402,7 +402,7 @@
 "Message.Contact" = "Контактные сведения";
 "Message.File" = "Файл";
 "Message.Sticker" = "Наклейка";
-"Message.Audio" = "Аудио";
+"Message.Audio" = "Голосовое сообщение";
 "Message.ForwardedMessage" = "Пересланное сообщение\nОт: %@";
 "Message.SharedContact" = "Контактные сведения";
 "Message.Animation" = "GIF";
@@ -1021,7 +1021,7 @@
 "SharedMedia.EmptyFilesText" = "Вы можете отправлять и получать\nлюбые файлы объемом до 1,5 ГБ\nи иметь доступ к ним доступ в любое время.";
 
 "ShareFileTip.Title" = "Общий доступ к файлам";
-"ShareFileTip.Text" = "Здесь Вы можете **без сжатия** отправить фото или видео из Вашей Фотопленки.\n\nЧтобы поделиться файлом другого типа, откройте его на своём %@ (например, в браузере), нажмите на **«Открыть в…»** и выберите Telegram.";
+"ShareFileTip.Text" = "Здесь Вы можете **без сжатия** отправить фото или видео из Вашей Фотоплёнки.\n\nЧтобы поделиться файлом другого типа, откройте его на своём %@ (например, в браузере), нажмите на **«Открыть в…»** и выберите Telegram.";
 "ShareFileTip.CloseTip" = "Закрыть подсказку";
 
 "DialogList.SearchSectionDialogs" = "Диалоги и контакты";
@@ -1315,8 +1315,6 @@
 "GroupInfo.InvitationLinkDoesNotExist" = "Такой группы не существует.";
 "GroupInfo.InvitationLinkGroupFull" = "В этой группе уже есть максимальное число участников.";
 
-"Core.CurrentUpdateText" = "Ваш Telegram обновился до версии %@. Что нового: \n\n— Оптимизация работы на iPhone 6s и 6s+;\n— Поддержка Split View и Slide Over на iPad;\n— Полная поддержка всех функций на WatchOS 2.\n\nИсправления багов и ошибок, включая проблемы с открытием фото, пересылкой и ответами на iPhone 6s.";
-
 "Core.ServiceUserStatus" = "служебные уведомления";
 
 "Notification.JoinedGroupByLink" = "%@ присоединился к группе по ссылке";
@@ -1562,8 +1560,6 @@
 "ChannelIntro.CreateChannel" = "Создать канал";
 
 "ShareMenu.Send" = "Отправить";
-"ShareMenu.BrowseChats" = "Выбрать чат...";
-"ShareMenu.AddCaption" = "Заголовок";
 
 "Conversation.ReportSpam" = "Сообщить о спаме";
 "Conversation.ReportSpamConfirmation" = "Уверены, что хотите сообщить о спаме от этого пользователя?";
@@ -1842,3 +1838,16 @@
 "Conversation.SecretChatContextBotAlert" = "Обратите внимание: встроенные боты создаются сторонними разработчиками. Весь текст, который Вы печатаете после имени пользователя робота, отправляется на сервера этих разработчиков.";
 
 "Map.OpenInWaze" = "Открыть в Waze";
+
+"ShareMenu.CopyShareLink" = "Копировать ссылку";
+
+"Channel.SignMessages" = "Подписывать сообщения";
+"Channel.SignMessages.Help" = "Добавлять к сообщениям имя администратора, который их опубликовал";
+
+"Channel.EditMessageErrorGeneric" = "К сожалению, Вы не можете редактировать это сообщение.";
+
+"ChannelInfo.InvitationLinkDoesNotExist" = "Такого канала не существует (или Ваша ссылка устарела).";
+
+"Conversation.InputTextSilentBroadcastPlaceholder" = "Тихий режим";
+"Conversation.SilentBroadcastTooltipOn" = "Подписчикам придёт уведомление о новом сообщении";
+"Conversation.SilentBroadcastTooltipOff" = "Подписчикам не придёт уведомление о новом сообщении";
