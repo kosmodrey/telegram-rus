@@ -73,8 +73,8 @@
 // Common
 "Common.OK" = "ОК";
 "Common.Cancel" = "Отмена";
-"Common.Edit" = "Изменить";
-"Common.edit" = "изменить";
+"Common.Edit" = "Править";
+"Common.edit" = "править";
 "Common.Done" = "Готово";
 "Common.Next" = "Далее";
 "Common.Delete" = "Удалить";
@@ -301,7 +301,7 @@
 "Conversation.Send" = "Отпр.";
 "Conversation.typing" = "печатает";
 "Conversation.MessageDeliveryFailed" = "Ваше сообщение не было отправлено. Нажмите «Повторить», чтобы попытаться еще раз.";
-"Conversation.MessageDialogEdit" = "Изменить";
+"Conversation.MessageDialogEdit" = "Править";
 "Conversation.MessageDialogRetry" = "Повторить";
 "Conversation.MessageDialogRetryAll" = "Повторить (%1$d)";
 "Conversation.MessageDialogDelete" = "Удалить";
@@ -321,7 +321,7 @@
 "Conversation.Call" = "Позвонить";
 "Conversation.Mute" = "Выключить звук";
 "Conversation.Unmute" = "Включить звук";
-"Conversation.Edit" = "Изменить";
+"Conversation.Edit" = "Править";
 "Conversation.Info" = "Сведения";
 "Conversation.Search" = "Поиск";
 "Conversation.Block" = "Заблокировать";
@@ -1993,5 +1993,5 @@
 "DialogList.RecentTitleGroups" = "Группы";
 "DialogList.RecentTitleBots" = "Боты";
 
-"Conversation.MessageEditedLabel" = "(изменено)";
+"Conversation.MessageEditedLabel" = "(исправлено)";
 "Conversation.EditingMessagePanelTitle" = "Править сообщение";
