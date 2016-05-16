@@ -35,8 +35,8 @@
 "CHAT_LEFT" = "%1$@ покинул(а) «%2$@»";
 "CHAT_RETURNED" = "%1$@ снова в «%2$@»";
 
-"MESSAGE_STICKER" = "%1$@ прислал(а) Вам наклейку";
-"CHAT_MESSAGE_STICKER" = "%1$@ прислал(а) наклейку в «%2$@»";
+"MESSAGE_STICKER" = "%1$@ прислал(а) Вам наклейку %2$@";
+"CHAT_MESSAGE_STICKER" = "%1$@ прислал(а) наклейку %3$@ в группу «%2$@»";
 
 "CONTACT_JOINED" = "%1$@ теперь использует Telegram";
 "CONTACT_ACTIVATED" = "%1$@ помог(ла) активировать Ваш аккаунт!";
@@ -52,12 +52,23 @@
 "CHANNEL_MESSAGE_PHOTO" = "%1$@ опубликовал(а) фото";
 "CHANNEL_MESSAGE_VIDEO" = "%1$@ опубликовал(а) видео";
 "CHANNEL_MESSAGE_DOC" = "%1$@ опубликовал(а) файл";
-"CHANNEL_MESSAGE_STICKER" = "%1$@ опубликовал(а) наклейку";
+"CHANNEL_MESSAGE_STICKER" = "%1$@ опубликовал(а) наклейку %2$@";
 "CHANNEL_MESSAGE_AUDIO" = "%1$@ опубликовал(а) аудиозапись";
 "CHANNEL_MESSAGE_CONTACT" = "%1$@ опубликовал(а) контакт";
 "CHANNEL_MESSAGE_GEO" = "%1$@ опубликовал(а) карту";
 "CHANNEL_MESSAGE_FWDS" = "%1$@ опубликовал(а) %2$@ пересланных сообщения";
 "CHANNEL_MESSAGE_GIF" = "%1$@ опубликовал(а) GIF";
+
+"PINNED_TEXT" = " %1$@ прикрепил(а) «%2$@»";
+"PINNED_NOTEXT" = "%1$@ прикрепил(а) сообщение";
+"PINNED_PHOTO" = "%1$@ прикрепил(а) фото";
+"PINNED_VIDEO" = "%1$@ прикрепил(а) видео";
+"PINNED_DOC" = "%1$@ прикрепил(а) файл";
+"PINNED_STICKER" = "%1$@ прикрепил(а) наклейку %2$@";
+"PINNED_AUDIO" = "%1$@ прикрепил(а) голосовое сообщение";
+"PINNED_CONTACT" = "%1$@ прикрепил(а) контактные данные";
+"PINNED_GEO" = "%1$@ прикрепил(а) карту";
+"PINNED_GIF" = "%1$@ прикрепил(а) GIF";
 
 // Common
 "Common.OK" = "ОК";
@@ -1851,3 +1862,136 @@
 "Conversation.InputTextSilentBroadcastPlaceholder" = "Тихий режим";
 "Conversation.SilentBroadcastTooltipOn" = "Подписчикам придёт уведомление о новом сообщении";
 "Conversation.SilentBroadcastTooltipOff" = "Подписчикам не придёт уведомление о новом сообщении";
+
+"Settings.About" = "О себе";
+"GroupInfo.LabelAdmin" = "глава";
+
+"Conversation.Pin" = "Прикрепить";
+"Conversation.Unpin" = "Открепить";
+"Conversation.Report" = "Сообщить о спаме";
+"Conversation.PinnedMessage" = "Прикреплённое сообщение";
+
+"Conversation.Moderate.Delete" = "Удалить сообщение";
+"Conversation.Moderate.Ban" = "Забанить пользователя";
+"Conversation.Moderate.Report" = "Сообщить о спаме";
+"Conversation.Moderate.DeleteAllMessages" = "Удалить все сообщения от %@";
+
+"Group.Username.Help" = "Вы можете создать **имя группы**, чтобы другие пользователи могли найти её в поиске и присоединиться к ней.\n\nМожно использовать **буквы латинского алфавита**, **цифры** и **знак подчеркивания**. Минимальная длина – **5** символов.";
+
+"Group.Username.InvalidTooShort" = "Название группы должно содержать минимум 5 символов.";
+"Group.Username.InvalidStartsWithNumber" = "Название не может начинаться с цифры.";
+
+"Group.Username.LinkHint" = "Эта ссылка откроет Вашу группу в Telegram:[\nhttps://telegram.me/%@]";
+
+"Notification.PinnedTextMessage" = "%@ прикрепил(а) «%@»";
+"Notification.PinnedPhotoMessage" = "%@ прикрепил(а) фото";
+"Notification.PinnedVideoMessage" = "%@ прикрепил(а) видео";
+"Notification.PinnedAudioMessage" = "%@ прикрепил(а) голосовое сообщение";
+"Notification.PinnedDocumentMessage" = "%@ прикрепил(а) файл";
+"Notification.PinnedAnimationMessage" = "%@ прикрепил(а) GIF";
+"Notification.PinnedStickerMessage" = "%@ прикрепил(а) наклейку";
+"Notification.PinnedLocationMessage" = "%@ прикрепил(а) карту";
+"Notification.PinnedContactMessage" = "%@ прикрепил(а) контактные данные";
+"Notification.PinnedDeletedMessage" = "%@ прикрепил(а) удалённое сообщение";
+
+"Message.PinnedTextMessage" = "прикрепил(а) «%@»";
+"Message.PinnedPhotoMessage" = "прикреплённое фото";
+"Message.PinnedVideoMessage" = "прикреплённое видео";
+"Message.PinnedAudioMessage" = "прикреплённое голосовое сообщение";
+"Message.PinnedDocumentMessage" = "прикреплённый файл";
+"Message.PinnedAnimationMessage" = "прикреплённая GIF-анимация";
+"Message.PinnedStickerMessage" = "прикреплённый наклейку";
+"Message.PinnedLocationMessage" = "прикреплённое местоположение";
+"Message.PinnedContactMessage" = "прикреплённые контактные данные";
+"Message.PinnedDeletedMessage" = "прикреплённое удалённое сообщение";
+
+"Notification.PinnedMessage" = "прикреплённое сообщение";
+
+"GroupInfo.ConvertToSupergroup" = "Преобразовать в супергруппу";
+
+"ConvertToSupergroup.Title" = "Супергруппа";
+"ConvertToSupergroup.HelpTitle" = "**В супергруппе:**";
+"ConvertToSupergroup.HelpText" = "• Новым участникам доступна вся история\n• Удалённые сообщения удаляются у всех\n• Возможность редактирования своих сообщений\n• Создатель может сгенерировать ссылку для приглашения";
+
+"ConvertToSupergroup.Note" = "**Внимание**: это действие необратимо.";
+
+"GroupInfo.GroupType" = "Тип группы";
+
+"Group.Setup.TypeHeader" = "ТИП ГРУППЫ";
+"Group.Setup.TypePublicHelp" = "Публичные группы видны в поиске, присоединиться к ним может кто угодно.";
+"Group.Setup.TypePrivateHelp" = "Присоединиться к приватной группе можно только по ссылке.";
+
+"Group.Username.CreatePublicLinkHelp" = "Люди могут делиться этой ссылкой и находить Вашу группу через поиск.";
+"Group.Username.CreatePrivateLinkHelp" = "Люди могут присоединяться к Вашей группе, перейдя по этой ссылке. Вы можете удалить эту ссылку в любое время.";
+
+"Conversation.PinMessageAlertGroup" = "Прикрепить это сообщение и уведомить всех участников?";
+"Conversation.PinMessageAlertChannel" = "Прикрепить это сообщение и уведомить всех подписчиков?";
+"Conversation.PinMessageAlert.OnlyPin" = "Только прикрепить";
+
+"Conversation.UnpinMessageAlert" = "Открепить это сообщение?";
+
+"Settings.About.Title" = "О себе";
+"Settings.About.Help" = "Вы можете написать пару строк о себе. Всякий, кто откроет ваш профиль, сможет его прочесть.";
+
+"Profile.About" = "о себе";
+
+"Group.Management.ErrorNotMember" = "%@ пока ещё не вступил(а) в группу. Пригласить его?";
+
+"Conversation.ReportSpamAndLeave" = "Сообщить о спаме и покинуть";
+
+"Conversation.StatusKickedFromChannel" = "Вы были исключены из этого канала";
+
+"Generic.OpenHiddenLinkAlert" = "Открыть %@?";
+
+"Resolve.ErrorNotFound" = "Такого пользователя не существует (или ваша ссылка устарела).";
+
+"StickerPack.AddStickers" = "Добавить наклейки";
+"StickerPack.Share" = "Поделиться";
+"StickerPack.Send" = "Отправить наклейку";
+
+"StickerPack.RemoveStickers" = "Удалить наклейку";
+"StickerPack.RemoveStickerCount_1" = "Удалить 1 наклейку";
+"StickerPack.RemoveStickerCount_2" = "Удалить 2 наклейки";
+"StickerPack.RemoveStickerCount_3_10" = "Удалить %@ наклейки";
+"StickerPack.RemoveStickerCount_any" = "Удалить %@ наклейки";
+
+"StickerPack.HideStickers" = "Скрыть наклейки";
+"StickerPack.ShowStickers" = "Показать наклейки";
+
+"ShareMenu.ShareTo" = "Поделиться с";
+"ShareMenu.SelectChats" = "Выберите чаты";
+"ShareMenu.Comment" = "Комментировать..";
+
+"MediaPicker.Videos" = "Видео";
+
+"Coub.TapForSound" = "Нажмите, чтобы включить звук";
+
+"Preview.SaveGif" = "Сохранить GIF";
+"Preview.DeleteGif" = "Удалить GIF";
+"Preview.CopyAddress" = "Копировать адрес";
+"Preview.ViewStickerPack" = "Посмотреть набор";
+
+"Conversation.ShareBotLocationConfirmationTitle" = "Поделиться Вашим местоположением?";
+"Conversation.ShareBotLocationConfirmation" = "Ваше местоположение будет отправлено боту.";
+
+"Conversation.ShareBotContactConfirmationTitle" = "Поделиться Вашим номером телефона?";
+"Conversation.ShareBotContactConfirmation" = "Этому боту будет доступен Ваш номер телефона. Это может быть полезно для интеграции с другими сервисами.";
+
+"Conversation.ShareInlineBotLocationConfirmation" = "Этот бот хочет получать данные о Вашем местоположении при каждом запросе к нему. Это может быть полезно для получения результатов, различающихся в разных регионах.";
+
+"Activity.UploadingAudio" = "отправляет аудио";
+
+"Preview.Tooltip" = "Нажмите и удерживайте для просмотра";
+
+"StickerPack.ErrorNotFound" = "Такого набора наклеек не существует.";
+
+"Camera.TapAndHoldForVideo" = "Нажмите и удерживайте для записи";
+
+"Conversation.TapAndHoldToRecord" = "Нажмите и удерживайте для записи";
+
+"DialogList.RecentTitlePeople" = "Люди";
+"DialogList.RecentTitleGroups" = "Группы";
+"DialogList.RecentTitleBots" = "Боты";
+
+"Conversation.MessageEditedLabel" = "(изменено)";
+"Conversation.EditingMessagePanelTitle" = "Править сообщение";
