@@ -40,7 +40,7 @@
 
 ## Официальные файлы перевода
 
-**Desktop:** https://github.com/telegramdesktop/tdesktop/blob/master/Telegram/Resources/lang.strings
+**Desktop:** https://github.com/telegramdesktop/tdesktop/blob/master/Telegram/Resources/langs/lang.strings
 
 **Android:** https://www.transifex.com/telegram/telegram/
 
