@@ -19,7 +19,7 @@ Full license: https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE
 Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 */
 "lng_language_name" = "Руский";
-"lng_switch_to_this" = "Переключиться на руский";
+"lng_switch_to_this" = "Переключиться на Руский";
 
 "lng_menu_contacts" = "Контакты";
 "lng_menu_settings" = "Настройки";
@@ -557,6 +557,17 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 
 "lng_forwarded_from" = "Переслано от";
 "lng_in_reply_to" = "В ответ на";
+"lng_edited" = "(исправлено)";
+
+"lng_edited_date" = "Исправлено: {date}";
+"lng_cancel_edit_post_sure" = "Отменить правку?";
+"lng_cancel_edit_post_yes" = "Да";
+"lng_cancel_edit_post_no" = "Нет";
+
+"lng_bot_share_location_unavailable" = "Извините, нельзя поделиться Вашим местоположением в Telegram Desktop.";
+"lng_bot_inline_geo_unavailable" = "Извините, бот требует Вашего местоположения.\nНедоступно в Telegram Desktop.";
+"lng_bot_share_phone" = "Поделиться Вашим номером телефона?";
+"lng_bot_share_phone_confirm" = "Поделиться";
 
 "lng_attach_failed" = "Неудачно";
 "lng_attach_file" = "Файл";
@@ -733,6 +744,7 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_context_save_gif" = "Сохранить GIF";
 "lng_context_to_msg" = "Перейти к сообщению";
 "lng_context_reply_msg" = "Ответить";
+"lng_context_edit_msg" = "Править";
 "lng_context_forward_msg" = "Переслать сообщение";
 "lng_context_delete_msg" = "Удалить сообщение";
 "lng_context_select_msg" = "Выделить сообщение";
@@ -828,13 +840,13 @@ Copyright (c) 2014-2015 John Preston, https://desktop.telegram.org
 "lng_mediaview_yesterday" = "вчера в {time}";
 "lng_mediaview_date_time" = "{date} в {time}";
 
-"lng_mediaview_saved" = "Изображение было сохранено в папке [c]Загрузки[/c]";
+"lng_mediaview_saved" = "Изображение было сохранено в папку [c]Загрузки[/c]";
 
 "lng_new_authorization" = "{name},\nМы обнаружили вход под Вашим аккаунтом на новом устройстве.\n\nДата: {day}, {date}\nВремя: {time}\nУстройство: {device}\nМестоположение: {location}\n\nЕсли это были не вы, можете перейти в Настройки — Приватность и безопасность — Завершить все другие сеансы.\n\nИскренне Ваша, команда Telegram.";
 
 "lng_new_version_wrap" = "Telegram Desktop был обновлён до версии {version}\n\n{changes}\n\nПолная история изменений доступна здесь:\n{link}";
-"lng_new_version_minor" = "— Исправления багов и незначительные улучшения";
-"lng_new_version_text" = "GIF-революция: загрузка и скачивание GIF теперь происходит в 10 раз быстрее, доавлен автозапуск анимаций и сохранение Ваших люимых GIF в отдельную вкладку на панели наклеек. \n\nПодробнее о гифках: https://tlgrm.ru/a/gifs \n\nВстроенные боты: новый способ добавить бота, отправлющего контент, в любой чат. Наберите юзернейм бота и свой запрос в поле сообщения и отправьте моментально полученный результат собеседнику. Попробуйте набрать «@gif dog» в этом чате. Ещё боты для примера: @gif, @wiki, @bingpic, @vid. \n\nПодробнее о ботах: https://tlgrm.ru/a/inline-bots \n\nТакже в этом обновлении: новый дизайн для медиафайлов и настройки автозагруки фотографий, аудиозаписей и GIF.";
+"lng_new_version_minor" = "— Исправления и небольшие улучшения.";
+"lng_new_version_text" = "";
 
 "lng_menu_insert_unicode" = "Вставьте управляющий символ Unicode";
 
